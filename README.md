@@ -1,1 +1,1 @@
-# Pixel-Game_100.io
+flag{pixel_game_100} 
